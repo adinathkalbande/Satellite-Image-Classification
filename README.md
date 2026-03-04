@@ -40,8 +40,6 @@ Classes in the dataset:
 * River
 * SeaLake
 
-Dataset Link:
-https://github.com/phelber/eurosat
 
 ---
 
